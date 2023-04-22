@@ -35,4 +35,4 @@ This is a LinkedIn Clone web application built with ReactJS, Styled Components, 
 ![screenshot (5)](https://user-images.githubusercontent.com/115978151/231721050-edcc9668-7a91-485b-871d-890480d067cc.png)
 
 ## Hosted Link
-https://radiant-crisp-5b85b3.netlify.app/
+https://illustrious-smakager-a05a4d.netlify.app/
